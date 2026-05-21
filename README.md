@@ -1,6 +1,6 @@
 # 👋 Hola, soy Daniel Martínez
 
-Soy estudiante y desarrollador en formación. Me gusta crear proyectos prácticos que combinan desarrollo móvil, backend, bases de datos, automatización, ciberseguridad e inteligencia artificial.
+Soy desarrollador en formación. Me gusta crear proyectos prácticos que combinan desarrollo móvil, backend, bases de datos, automatización, ciberseguridad e inteligencia artificial.
 
 Actualmente estoy trabajando en proyectos donde aplico herramientas como React Native, Node.js, Express.js, PostgreSQL, Firebase, JWT, n8n y MCP. También practico redes y seguridad en laboratorios con pfSense, Kali Linux y EVE-NG.
 
