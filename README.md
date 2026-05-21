@@ -35,7 +35,6 @@ Actualmente estoy trabajando en proyectos donde aplico herramientas como React N
 ![Git](https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-
 ## En lo que estoy trabajando
 
 Actualmente estoy enfocado en proyectos académicos y personales relacionados con:
@@ -49,12 +48,6 @@ Actualmente estoy enfocado en proyectos académicos y personales relacionados co
 - Integración de herramientas con inteligencia artificial mediante MCP.
 - Laboratorios de redes y ciberseguridad con pfSense, Kali Linux y EVE-NG.
 
-
-## Estadísticas de GitHub
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmg17&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmg17&layout=compact&theme=tokyonight)
 
 ## 📫 Contacto
 
