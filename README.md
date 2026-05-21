@@ -36,6 +36,10 @@ Actualmente construyo aplicaciones con React Native, Node.js y PostgreSQL, al mi
 ![APIs](https://img.shields.io/badge/APIs-Integrations-0A66C2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Proyectos Destacados
+**Asistente Conversacional para WhatsApp:** Desarrollo de un chatbot automatizado orquestado con n8n, manejando webhooks y lógica asíncrona para integrarse con modelos de IA conversacionales y ofrecer respuestas dinámicas en tiempo real.
+
+**Aplicación Móvil de Nutrición:** Construcción de una plataforma integral usando React Native para la interfaz móvil, conectada a un backend en Node.js con una base de datos relacional en PostgreSQL.
 
 ## 📫 Contacto
 
