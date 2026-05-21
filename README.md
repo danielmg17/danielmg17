@@ -1,4 +1,4 @@
-# Hola, soy Daniel Martínez
+**# Hola, soy Daniel Martínez**
 
 Desarrollador de Software | Automatización, Ciberseguridad & IA
 
@@ -6,18 +6,17 @@ Soy un estudiante de ingeniería apasionado por crear proyectos prácticos que c
 
 Actualmente construyo aplicaciones con React Native, Node.js y PostgreSQL, al mismo tiempo que diseño soluciones de infraestructura de red y flujos automatizados con n8n.
 
-## Sobre mí
+**## Sobre mí**
 
-- Desarrollo aplicaciones móviles usando React Native y Expo.
-- Me interesa integrar inteligencia artificial en proyectos reales, especialmente chatbots y asistentes.
-- Trabajo con autenticación, JWT, APIs REST y seguridad básica en backend.
-- Uso bases de datos como PostgreSQL y MySQL para organizar información del sistema.
-- He trabajado con automatización usando n8n e integración de APIs.
-- Recientemente creé mi primer MCP para conectar herramientas con inteligencia artificial.
-- También practico redes, VPN, VLANs, pfSense, monitoreo y laboratorios en EVE-NG.
-- Me interesa mejorar la documentación, estructura y presentación de mis proyectos.
+**- Desarrollo Full Stack & Móvil**: Construyo aplicaciones multiplataforma con React Native y Expo, respaldadas por arquitecturas backend escalables utilizando Node.js, Express y PostgreSQL. Garantizo la seguridad de los datos implementando autenticación robusta (JWT, Firebase) y diseño de APIs RESTful.
 
-## Tecnologías y herramientas
+**- Automatización & Entornos de IA:** Optimizo procesos mediante flujos automatizados en n8n y desarrollo asistentes virtuales inteligentes. Recientemente implementé mi primer servidor MCP para integrar herramientas externas directamente con modelos de Inteligencia Artificial.
+
+**- Infraestructura & Ciberseguridad:** Diseño e implemento arquitecturas de red seguras. Cuento con experiencia técnica configurando firewalls (pfSense), segmentación de tráfico (VLANs), VPNs y despliegue de topologías complejas en entornos como EVE-NG.
+
+**- Calidad y Estructura: **Mantengo un enfoque constante en las buenas prácticas, buscando siempre mejorar la arquitectura, documentación y presentación de cada sistema que desarrollo.
+
+**## Tecnologías y herramientas**
 
 ![Figma](https://img.shields.io/badge/Figma-Diseño-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-App_Móvil-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -38,7 +37,7 @@ Actualmente construyo aplicaciones con React Native, Node.js y PostgreSQL, al mi
 ![Git](https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## En lo que estoy trabajando
+**## En lo que estoy trabajando**
 
 Actualmente estoy enfocado en proyectos académicos y personales relacionados con:
 
