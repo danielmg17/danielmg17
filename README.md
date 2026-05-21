@@ -37,20 +37,6 @@ Actualmente construyo aplicaciones con React Native, Node.js y PostgreSQL, al mi
 ![Git](https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## En lo que estoy trabajando
-
-Actualmente estoy enfocado en proyectos académicos y personales relacionados con:
-
-- Desarrollo de aplicaciones móviles con React Native y Expo.
-- Backend con Node.js, Express.js y APIs REST.
-- Bases de datos con PostgreSQL y MySQL.
-- Autenticación, sesiones y seguridad con Firebase y JWT.
-- Integración de IA para chatbot y análisis nutricional.
-- Automatización de procesos con n8n.
-- Integración de herramientas con inteligencia artificial mediante MCP.
-- Laboratorios de redes y ciberseguridad con pfSense, Kali Linux y EVE-NG.
-
-
 ## 📫 Contacto
 
 - GitHub: [danielmg17](https://github.com/danielmg17)
