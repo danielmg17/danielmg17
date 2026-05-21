@@ -14,7 +14,7 @@ Actualmente construyo aplicaciones con React Native, Node.js y PostgreSQL, al mi
 
 **- Infraestructura & Ciberseguridad:** Diseño e implemento arquitecturas de red seguras. Cuento con experiencia técnica configurando firewalls (pfSense), segmentación de tráfico (VLANs), VPNs y despliegue de topologías complejas en entornos como EVE-NG.
 
-**- Calidad y Estructura: **Mantengo un enfoque constante en las buenas prácticas, buscando siempre mejorar la arquitectura, documentación y presentación de cada sistema que desarrollo.
+**- Calidad y Estructura:** Mantengo un enfoque constante en las buenas prácticas, buscando siempre mejorar la arquitectura, documentación y presentación de cada sistema que desarrollo.
 
 ## Tecnologías y herramientas
 
