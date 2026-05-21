@@ -17,32 +17,24 @@ Actualmente estoy trabajando en proyectos donde aplico herramientas como React N
 
 ## Tecnologías y herramientas
 
-![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Diseño-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-App_Móvil-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-Pruebas_Móviles-000020?style=for-the-badge&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Desarrollo-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-Programación-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-API_REST-000000?style=for-the-badge&logo=express&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-HTTP_Client-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Auth_&_Push-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-Security-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Base_de_Datos-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Auth_&_Notificaciones-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-Seguridad-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-AI_API-F55036?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6A5ACD?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-Automatización-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-IA_Integrations-6A5ACD?style=for-the-badge)
 ![APIs](https://img.shields.io/badge/APIs-Integrations-0A66C2?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Security-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-Firewall-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![EVE-NG](https://img.shields.io/badge/EVE--NG-Network_Lab-0052CC?style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android_Studio-Android-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-AI_IDE-6A5ACD?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 ## En lo que estoy trabajando
 
