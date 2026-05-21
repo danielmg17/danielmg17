@@ -1,6 +1,6 @@
 # 👋 Hola, soy DanielM
 
-Soy estudiante y desarrollador en formación, interesado en el desarrollo web, bases de datos, redes, ciberseguridad, automatización e inteligencia artificial.
+Soy desarrollador en formación, interesado en el desarrollo web, bases de datos, redes, ciberseguridad, automatización e inteligencia artificial.
 
 Me gusta crear proyectos prácticos, aprender nuevas herramientas y aplicar la tecnología para resolver problemas reales. Actualmente estoy fortaleciendo mis conocimientos en desarrollo full stack, seguridad de redes, automatización con n8n e integración de herramientas con inteligencia artificial.
 
@@ -14,36 +14,22 @@ Me gusta crear proyectos prácticos, aprender nuevas herramientas y aplicar la t
 - Siempre busco mejorar mis proyectos, documentarlos mejor y hacerlos más profesionales.
 
 ## 🛠️ Tecnologías y herramientas
-
-### Lenguajes y desarrollo web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Automatización e IA
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6A5ACD?style=for-the-badge)
 ![APIs](https://img.shields.io/badge/APIs-Integrations-0A66C2?style=for-the-badge)
-
-### Redes y ciberseguridad
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![EVE-NG](https://img.shields.io/badge/EVE--NG-Network%20Lab-0052CC?style=for-the-badge)
-
-### Control de versiones y entorno
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 
 ## Áreas de interés
 - Desarrollo Full Stack
