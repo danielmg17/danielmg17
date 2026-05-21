@@ -13,7 +13,7 @@ Me gusta crear proyectos prácticos, aprender nuevas herramientas y aplicar la t
 - Recientemente creé mi primer MCP para conectar herramientas con inteligencia artificial.
 - Siempre busco mejorar mis proyectos, documentarlos mejor y hacerlos más profesionales.
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,10 +24,8 @@ Me gusta crear proyectos prácticos, aprender nuevas herramientas y aplicar la t
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+
 
 ## Áreas de interés
 - Desarrollo Full Stack
