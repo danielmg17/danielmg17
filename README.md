@@ -1,4 +1,4 @@
-**# Hola, soy Daniel Martínez**
+# Hola, soy Daniel Martínez
 
 Desarrollador de Software | Automatización, Ciberseguridad & IA
 
@@ -6,7 +6,7 @@ Soy un estudiante de ingeniería apasionado por crear proyectos prácticos que c
 
 Actualmente construyo aplicaciones con React Native, Node.js y PostgreSQL, al mismo tiempo que diseño soluciones de infraestructura de red y flujos automatizados con n8n.
 
-**## Sobre mí**
+## Sobre mí
 
 **- Desarrollo Full Stack & Móvil**: Construyo aplicaciones multiplataforma con React Native y Expo, respaldadas por arquitecturas backend escalables utilizando Node.js, Express y PostgreSQL. Garantizo la seguridad de los datos implementando autenticación robusta (JWT, Firebase) y diseño de APIs RESTful.
 
@@ -16,7 +16,7 @@ Actualmente construyo aplicaciones con React Native, Node.js y PostgreSQL, al mi
 
 **- Calidad y Estructura: **Mantengo un enfoque constante en las buenas prácticas, buscando siempre mejorar la arquitectura, documentación y presentación de cada sistema que desarrollo.
 
-**## Tecnologías y herramientas**
+## Tecnologías y herramientas
 
 ![Figma](https://img.shields.io/badge/Figma-Diseño-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-App_Móvil-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -37,7 +37,7 @@ Actualmente construyo aplicaciones con React Native, Node.js y PostgreSQL, al mi
 ![Git](https://img.shields.io/badge/Git-Control_de_Versiones-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-**## En lo que estoy trabajando**
+## En lo que estoy trabajando
 
 Actualmente estoy enfocado en proyectos académicos y personales relacionados con:
 
