@@ -1,46 +1,70 @@
-# 👋 Hola, soy DanielM
+# 👋 Hola, soy Daniel Martínez
 
-Soy desarrollador en formación, interesado en el desarrollo web, bases de datos, redes, ciberseguridad, automatización e inteligencia artificial.
+Soy estudiante y desarrollador en formación. Me gusta crear proyectos prácticos que combinan desarrollo móvil, backend, bases de datos, automatización, ciberseguridad e inteligencia artificial.
 
-Me gusta crear proyectos prácticos, aprender nuevas herramientas y aplicar la tecnología para resolver problemas reales. Actualmente estoy fortaleciendo mis conocimientos en desarrollo full stack, seguridad de redes, automatización con n8n e integración de herramientas con inteligencia artificial.
+Actualmente estoy trabajando en proyectos donde aplico herramientas como React Native, Node.js, Express.js, PostgreSQL, Firebase, JWT, n8n y MCP. También practico redes y seguridad en laboratorios con pfSense, Kali Linux y EVE-NG.
 
 ## Sobre mí
 
-- Desarrollo proyectos prácticos usando programación, bases de datos y herramientas web.
-- Estoy aprendiendo y trabajando con tecnologías como React, Node.js y Python.
-- Me interesa la ciberseguridad, redes, pfSense, VPN, VLANs y monitoreo.
+- Desarrollo aplicaciones móviles usando React Native y Expo.
+- Me interesa integrar inteligencia artificial en proyectos reales, especialmente chatbots y asistentes.
+- Trabajo con autenticación, JWT, APIs REST y seguridad básica en backend.
+- Uso bases de datos como PostgreSQL y MySQL para organizar información del sistema.
 - He trabajado con automatización usando n8n e integración de APIs.
 - Recientemente creé mi primer MCP para conectar herramientas con inteligencia artificial.
-- Siempre busco mejorar mis proyectos, documentarlos mejor y hacerlos más profesionales.
+- También practico redes, VPN, VLANs, pfSense, monitoreo y laboratorios en EVE-NG.
+- Me interesa mejorar la documentación, estructura y presentación de mis proyectos.
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
+
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6A5ACD?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-API_REST-000000?style=for-the-badge&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-HTTP_Client-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Auth_&_Push-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-Security-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-AI_API-F55036?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6A5ACD?style=for-the-badge)
 ![APIs](https://img.shields.io/badge/APIs-Integrations-0A66C2?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![EVE-NG](https://img.shields.io/badge/EVE--NG-Network%20Lab-0052CC?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Security-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-Firewall-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-Network_Lab-0052CC?style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android_Studio-Android-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-AI_IDE-6A5ACD?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github)
 
-## Áreas de interés
-- Desarrollo Full Stack
-- Bases de datos
-- Ciberseguridad
-- Administración de redes
-- Automatización de procesos
-- Inteligencia artificial aplicada
-- Integración de APIs y herramientas
-- MCP y agentes inteligentes
+## En lo que estoy trabajando
 
-## Contacto
+Actualmente estoy enfocado en proyectos académicos y personales relacionados con:
+
+- Desarrollo de aplicaciones móviles con React Native y Expo.
+- Backend con Node.js, Express.js y APIs REST.
+- Bases de datos con PostgreSQL y MySQL.
+- Autenticación, sesiones y seguridad con Firebase y JWT.
+- Integración de IA para chatbot y análisis nutricional.
+- Automatización de procesos con n8n.
+- Integración de herramientas con inteligencia artificial mediante MCP.
+- Laboratorios de redes y ciberseguridad con pfSense, Kali Linux y EVE-NG.
+
+
+## Estadísticas de GitHub
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmg17&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmg17&layout=compact&theme=tokyonight)
+
+## 📫 Contacto
+
 - GitHub: [danielmg17](https://github.com/danielmg17)
 - Email: danielmartinezgas@gmail.com
