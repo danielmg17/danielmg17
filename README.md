@@ -1,4 +1,4 @@
-# 👋 Hola, soy Daniel Martínez
+# Hola, soy Daniel Martínez
 
 Soy desarrollador en formación. Me gusta crear proyectos prácticos que combinan desarrollo móvil, backend, bases de datos, automatización, ciberseguridad e inteligencia artificial.
 
